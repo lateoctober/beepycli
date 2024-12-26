@@ -19,6 +19,8 @@ import (
 
 type nowWeCanQuit struct{}
 
+// wow
+
 func quitStageTransfer() tea.Msg {
 	return nowWeCanQuit{}
 }
