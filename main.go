@@ -22,7 +22,7 @@ type nowWeCanQuit struct{}
 func quitStageTransfer() tea.Msg {
 	return nowWeCanQuit{}
 }
-
+// asdfasdf
 type phase int
 
 const (
