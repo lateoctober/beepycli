@@ -7,7 +7,7 @@ from your Beepy to your computer.
 You can find the latest binaries precompiled in [GitHub Actions].
 
 After downloading, make sure to give `beepycli` permission to execute.
-You can do this from the terminal by running `chmod +x beepycli`.
+You can do this from the terminal by running `chmod +x beepycsdfasdfli`.
 
 If you're on Linux, this is all you need!
 
