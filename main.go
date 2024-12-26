@@ -16,7 +16,7 @@ import (
 	"github.com/beeper/beepycli/verification"
 	"github.com/beeper/beepycli/welcome"
 )
-
+//wtda
 type nowWeCanQuit struct{}
 
 func quitStageTransfer() tea.Msg {
